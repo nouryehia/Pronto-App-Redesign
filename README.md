@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This redesign was created as part of the course COGS 187A "Usability and Information Architecture" taught by Professor David Kirsh at UC San Diego. Pronto is a mobile app used by thousands of UC San Diego students to access public transportation in the San Diego area. Despite its popularity, several aspects of the app are not intuitive to use, especially the feature of adding passes to access public transportation. Our project proposes two prototype redesigns of this feature. The slide deck in this repo explains our team's design process and showcases our interactive redesign.
+This redesign was created as part of the course COGS 187A "Usability and Information Architecture" taught by Professor David Kirsh at UC San Diego. Pronto is a mobile app used by thousands of UC San Diego students to access public transportation in the San Diego area. Despite its popularity, several aspects of the app are not intuitive to use, especially the feature of adding passes to access public transportation. Our project proposes two prototype redesigns of this feature. The slide deck in this repo explains our team's design process and showcases our interactive redesigns.
 
 ## Team
 
